@@ -4,5 +4,6 @@ function easyverif(nbCheck){
     }
     else{
         alert("You are mistaken.");
+       document.getElementById(nbCheck).checked = false;
     }
 }
