@@ -7,7 +7,22 @@ function easyverif(nbCheck){
        document.getElementById(nbCheck).checked = false;
     }
 }
-function incheck(){
-var enter1 =document.getElementById("input1").value;
-   var enter2 =document.getElementById("input2").value;
+function in1check(){
+var enter1 =document.getElementById("jesuis").value;
+   if enter1 == "I am" {
+   alert("Good job !");
+   }
+    else{
+        alert("You are mistaken.");
+    }
+}
+
+function in2check(){
+var enter2 =document.getElementById("have").value;
+    if enter2 == "am" {
+   alert("Good job !");
+   }
+    else{
+        alert("You are mistaken.");
+    }
 }
