@@ -6,7 +6,7 @@ body{
 	font-size: 60px;
 	text-align: center;
 	margin:40px;
- font-family: Tahoma, Garamond, sans-serif, Arial;
+ font-family: Poppins, Tahoma, Garamond, sans-serif, Arial;
 }
 .buttontest {
 	font-size: 20px;
@@ -23,14 +23,14 @@ background-color:black ;
 p span {
 	font-weight: bold;
 	font-size: 20px;
-	font-family: Tahoma, Garamond, sans-serif, Arial;;
+	font-family: Poppins, Tahoma, Garamond, sans-serif, Arial;;
 	margin: 40px;
   display: block;
 }
 .enc {
 	font-weight: bold;
 	font-size: 35px;
-	font-family: Tahoma, Garamond, sans-serif, Arial;;
+	font-family: Poppins, Tahoma, Garamond, sans-serif, Arial;;
 	margin: 40px;
 }
 
@@ -45,7 +45,7 @@ p span {
 	font-size: 60px;
 	text-align: center;
 	margin:40px;
- font-family: Tahoma, Garamond, sans-serif, Arial;
+ font-family: Poppins, Tahoma, Garamond, sans-serif, Arial;
 }
 .Easy {
 	font-size: 20px;
